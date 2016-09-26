@@ -1,0 +1,22 @@
+{
+  "name": "Home_work_js",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concat-css": "^0.3.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "license": "ISC",
+  "main": "gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorya1408/Home_work_js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
